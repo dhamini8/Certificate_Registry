@@ -3,7 +3,7 @@
 This project implements a certificate management system on the Ethereum blockchain using the Hardhat development environment. It includes intentional vulnerabilities for educational and auditing purposes.
 
 ## Project Structure
-
+```
 certi/
 ├── .env                        # Environment variables configuration
 ├── contracts/
@@ -15,7 +15,7 @@ certi/
 ├── hardhat.config.js          # Hardhat and network configuration 
 ├── package.json               # Project dependencies and scripts
 └── readme.md                  # Project documentation
-
+```
 
 ## Key Components
 
