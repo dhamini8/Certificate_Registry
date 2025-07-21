@@ -124,7 +124,7 @@ This project includes known vulnerabilities such as:
 	•	Missing zero address checks
 
 DO NOT use this contract in production environments without proper security review and patching.
-
+This is for learning purpose only.
 
 **License**
 
